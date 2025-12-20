@@ -1,0 +1,10 @@
+[flake8]
+# Ignora os erros mais comuns
+ignore = E203, W503, E501, E999, F403, F401, W504, F541, E261, E701
+max-line-length = 120
+exclude =
+    .git,
+    __pycache__,
+    .venv,
+    build,
+    dist
