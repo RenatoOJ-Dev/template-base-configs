@@ -1,3 +1,8 @@
+# VS Code Settings (IDE)
+
+Configurações do editor no formato JSON. Use este arquivo como referência para `settings.json`.
+
+```json
 {
   "editor.fontSize": 20,
   "window.zoomLevel": 0,
@@ -67,3 +72,4 @@
 "explorer.compactFolders": false,
 "github.copilot.nextEditSuggestions.enabled": true
 }
+```

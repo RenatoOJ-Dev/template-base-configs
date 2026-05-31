@@ -1,3 +1,8 @@
+# .gitignore for Python / Django
+
+Padrões comuns para projetos Python/Django.
+
+```gitignore
 # Django #
 *.log
 *.pot
@@ -112,7 +117,6 @@ GitHub.sublime-settings
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
-!.vscode/extensions.json
 .history
 
 # Personal additions
@@ -128,3 +132,4 @@ gunicorn-error-log
 db.sqlite3
 db copy.sqlite3
 static/
+```

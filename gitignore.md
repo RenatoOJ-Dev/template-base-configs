@@ -1,3 +1,8 @@
+# Global .gitignore
+
+Arquivo `.gitignore` com padrões para múltiplas linguagens e ambientes.
+
+```gitignore
 # ====================================================================
 # GITIGNORE PROFISSIONAL MULTI-LINGUAGEM
 # Criado para: Python, JavaScript, Java, Lua e Segurança
@@ -85,3 +90,4 @@ $RECYCLE.BIN/
 *~
 .project
 .settings/
+```
